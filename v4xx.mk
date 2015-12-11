@@ -190,8 +190,8 @@ PRODUCT_PACKAGES += \
 
 # Ramdisk
 PRODUCT_PACKAGES += \
-    fstab.e7 \
-    init.e7.rc \
+    fstab.e8lte \
+    init.e8lte.rc \
     init.lge.rc \
     init.zetaw.bt_vendor.rc \
     init.zetaw.class_core.sh \
@@ -201,7 +201,7 @@ PRODUCT_PACKAGES += \
     init.zetaw.syspart_fixup.sh \
     init.zetaw.usb.rc \
     init.zetaw.usb.sh \
-    ueventd.e7.rc
+    ueventd.e8lte.rc
 
 # RIL symbols
 PRODUCT_PACKAGES += \

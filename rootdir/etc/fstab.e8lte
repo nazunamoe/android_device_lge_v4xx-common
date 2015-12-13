@@ -17,9 +17,3 @@
 /dev/block/platform/msm_sdcc.1/by-name/boot         	/boot           	emmc    defaults                                                        		defaults
 /dev/block/platform/msm_sdcc.1/by-name/recovery     	/recovery       	emmc    defaults                                                        		defaults
 /dev/block/platform/msm_sdcc.1/by-name/misc         	/misc           	emmc    defaults                                                        		defaults
-/devices/platform/msm_hsusb_host                        /storage/USBstorage1     vfat    nosuid,nodev                                                                   wait,voldmanaged=USBstorage1:auto
-/devices/platform/msm_hsusb_host                        /storage/USBstorage2    vfat    nosuid,nodev                                                                    wait,voldmanaged=USBstorage2:auto
-/devices/platform/msm_hsusb_host                        /storage/USBstorage3    vfat    nosuid,nodev                                                                    wait,voldmanaged=USBstorage3:auto
-/devices/platform/msm_hsusb_host                        /storage/USBstorage4    vfat    nosuid,nodev                                                                    wait,voldmanaged=USBstorage4:auto
-/devices/platform/msm_hsusb_host                        /storage/USBstorage5    vfat    nosuid,nodev                                                                    wait,voldmanaged=USBstorage5:auto
-/devices/platform/msm_hsusb_host                        /storage/USBstorage6    vfat    nosuid,nodev                                                                    wait,voldmanaged=USBstorage6:auto
